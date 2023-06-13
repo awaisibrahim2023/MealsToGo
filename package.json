@@ -11,6 +11,7 @@
   "dependencies": {
     "@expo-google-fonts/lato": "^0.1.0",
     "@expo-google-fonts/oswald": "^0.1.0",
+<<<<<<< Updated upstream
     "@react-native-community/masked-view": "0.1.10",
     "@react-navigation/bottom-tabs": "^5.11.2",
     "@react-navigation/native": "^5.8.10",
@@ -27,10 +28,21 @@
     "react-native-screens": "~2.15.0",
     "react-native-svg": "12.1.0",
     "react-native-web": "~0.13.12",
+=======
+    "expo": "^48.0.0",
+    "expo-font": "~11.1.1",
+    "expo-status-bar": "~1.4.4",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "react-native": "0.71.3",
+    "react-native-paper": "^4.5.0",
+    "react-native-svg": "13.4.0",
+    "react-native-web": "~0.18.11",
+>>>>>>> Stashed changes
     "styled-components": "^5.2.1"
   },
   "devDependencies": {
-    "@babel/core": "~7.9.0",
+    "@babel/core": "^7.20.0",
     "@react-native-community/eslint-config": "^2.0.0",
     "eslint": "^7.16.0",
     "prettier": "^2.2.1"
